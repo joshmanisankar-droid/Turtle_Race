@@ -33,7 +33,7 @@ Players are prompted to select the turtle they believe will win. During gameplay
       python --version
 
   Running the game - clone the repository and execute the script
-      git clone https://github.com/joshmanisankar-droid/turtle-race-game.git
+      git clone https://github.com/joshmanisankar-droid/Turtle_Race.git
       cd turtle-race-game
       python turtle_race.py
 
