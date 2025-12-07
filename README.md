@@ -1,7 +1,9 @@
 #Turtle_Race
+
  A fun and interactive Turtle Race game built using Python’s turtle module. It features animated particle backgrounds, an ASCII-art intro screen, click-to-start gameplay, colourful racing turtles, and a simple betting system. Players choose a turtle, watch the race, and see if their prediction wins
 
 ##Overview
+
 The Turtle Race Game simulates a race between six turtles, each assigned a distinct color. Players are prompted to select the turtle they believe will win. During gameplay, turtles move forward with randomized steps, making each race unpredictable and engaging.
 
 ##The Game Features:
@@ -14,6 +16,7 @@ Each turtle moves differently on every run, ensuring unique race outcomes. • W
 Displays results at the end of each race with a clean UI message.
 
 ##Technologies Used :
+
 Python 3.x
 Turtle Module
 Random Module No third-party packages are required
