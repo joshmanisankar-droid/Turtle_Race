@@ -1,7 +1,4 @@
 ![Turtle Race Logo](readme.png)
-<p align="center">
-  <img src="readme.png" width="300">
-</p>
 
 # Turtle_Race
 
