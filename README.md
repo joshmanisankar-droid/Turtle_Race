@@ -1,4 +1,4 @@
-![Turtle Race Logo](readme.png)
+![Turtle Race Logo](Turtle_Race_logo.pdf)
 
 # Turtle_Race
 
