@@ -1,5 +1,7 @@
 ![Turtle Race Logo](readme.png)
 
+[![Python Version](https://img.shields.io/badge/python-3.13-blue.svg)](https://www.python.org/)
+
 # Turtle_Race
 
  A fun and interactive Turtle Race game built using Python’s turtle module. It features animated particle backgrounds, an ASCII-art intro screen, click-to-start gameplay, colourful racing turtles, and a simple betting system. Players choose a turtle, watch the race, and see if their prediction wins
